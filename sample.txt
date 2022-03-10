@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 hello 
 how are you 
 
+=======
+>>>>>>> 3bf5a5c4218fb54a6d69460205e7e7d9d360b257
 
